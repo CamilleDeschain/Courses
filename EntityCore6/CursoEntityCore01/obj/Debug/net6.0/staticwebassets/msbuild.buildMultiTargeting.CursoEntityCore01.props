@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CursoEntityCore01.props" />
+</Project>
